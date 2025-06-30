@@ -4,16 +4,22 @@ body{
 
     font-family:sans-serif;
     margin: 0px;
+<<<<<<< HEAD
+    header{ 
+        border-bottom: solid 3px rgb(42, 122, 228)
+=======
 
 
     }
     header{
         border-bottom: 3pix rgb(rgb(197, 25, 25), rgb(83, 194, 83), rgb(52, 52, 150))
     }
-    h1{ 30pix;
+    h1{ 30pix
     }
-    p{font-size: 30pix;
+
+
+    h1{  20px;
     }
-}
-header{font-size: 50pix;
+    p{font-size: 30px;
+    }
 }
