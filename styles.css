@@ -1,25 +1,33 @@
-body{
+body {
     background-color: black;
     color: white;
 
-    font-family:sans-serif;
-    margin: 0px;
-<<<<<<< HEAD
-    header{ 
-        border-bottom: solid 3px rgb(42, 122, 228)
-=======
+    font-family: sans-serif;
+    margin: 0px;}
 
+ header {
+        border-bottom: solid 3px rgb(42, 122, 228);
+        padding: 20px;
+        font-size: 35px;
+        color: rgb(228, 126,42 );
 
-    }
-    header{
-        border-bottom: 3pix rgb(rgb(197, 25, 25), rgb(83, 194, 83), rgb(52, 52, 150))
-    }
-    h1{ 30pix
     }
 
 
-    h1{  20px;
+    header {
+        border-bottom: 3pix rgb(151, 37, 37)
     }
-    p{font-size: 30px;
+
+    h1 {
+        30pix
+    }
+
+
+    h1 {
+        20px;
+    }
+
+    p {
+        font-size: 30px;
     }
 }
